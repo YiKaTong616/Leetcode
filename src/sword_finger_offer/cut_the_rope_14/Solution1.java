@@ -1,5 +1,4 @@
 package sword_finger_offer.cut_the_rope_14;
-
 /**
  * 执行用时：1 ms, 在所有 Java 提交中击败了 44.78% 的用户
  * 内存消耗：35.4 MB, 在所有 Java 提交中击败了 20.64% 的用户
